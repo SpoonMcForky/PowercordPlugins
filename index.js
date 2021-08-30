@@ -41,7 +41,7 @@ module.exports = class Detector extends Plugin {
                     },
                     url: api,
                     color: 0x209cee,
-                    description: `\`Error:\`` + 'Invalid IP',
+                    description: 'Error:' + `\`Invalid IP\``,
                     footer: {
                         text: `Data provided by https://ipapi.co/${args}/json/`
                     }

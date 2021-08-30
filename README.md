@@ -1,2 +1,0 @@
-# PowercordPlugins
-My PowercordPlugins

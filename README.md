@@ -15,5 +15,5 @@ Contains an ``ip`` command
 - Latitude
 - Longitude
 - Timezone
-- Currency Name
-How to install: ``git clone https://github.com/SpoonMcForky/ip-data``
+- Currency Name  
+### How to install: ``git clone https://github.com/SpoonMcForky/ip-data``

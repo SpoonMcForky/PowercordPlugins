@@ -4,7 +4,7 @@
   "description": "Sends information about a given IP from https://ipapi.co/",
   "author": "_SpoonMcForky_#8008",
   "license": "MIT",
-  "repo": "https://github.com/SpoonMcForky/PowercordPlugins/tree/main/ip-data",
+  "repo": "https://github.com/SpoonMcForky/ip-data",
   "dependencies": [
     "pc-commands"
   ],

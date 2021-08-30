@@ -1,7 +1,7 @@
 const { get } = require('powercord/http');
 const { Plugin } = require('powercord/entities');
 
-module.exports = class Detector extends Plugin {
+module.exports = class IP extends Plugin {
     startPlugin() {
         powercord.api.commands.registerCommand({
             command: 'ip',
